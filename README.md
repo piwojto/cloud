@@ -1,1 +1,2 @@
 # cloud
+pliki przykładowe Codecademy
